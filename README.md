@@ -129,30 +129,78 @@ Used for:
 
 ## 📈 Power BI Dashboard
 
-Includes:
-- National alliance seat comparison  
-- State-level demographic analysis  
-- Political landscape by state  
-- Detailed constituency breakdown  
-- Drill-through navigation and interactive elements  
+The Power BI report consists of six pages, each created with a specific analytical purpose.  
+Below are the insights, findings, and relevance of each page along with the dashboard visuals.
 
-### **Landing Page - 1**  
+---
+
+### **Landing Page – 1 (Dashboard Navigation Hub)**  
+**Purpose & Key Highlights:**  
+- Serves as the main navigation panel for the entire report  
+- Provides clear entry points to all analytical pages  
+- Ensures users can quickly switch between overview, state, and constituency-level insights  
+- Clean and minimal design to maintain user focus  
+
 ![India Election Dashboard](images/landing_page1.png)
 
-### **Report Page - 2**  
+---
+
+### **Report Page – 2 (Overview Analysis)**  
+**Key Insights & Purpose:**  
+- Displays the **overall seat distribution** of NDA, I.N.D.I.A, and Other parties  
+- Highlights national-level performance with seat share and percentage contributions  
+- Shows total seats contested (**543**) and how alliances performed nationwide  
+- Offers a high-level summary of the 2024 election outcomes  
+
 ![India Election Dashboard](images/report_page2.png)
 
-### **Report Page - 3**  
+---
+
+### **Report Page – 3 (State Demographic Analysis)**  
+**Key Insights & Purpose:**  
+- Provides **state-wise seat distribution** for all alliances  
+- Identifies which alliance holds the majority in each state  
+- Shows winning candidates, their parties, and voting details  
+- Highlights states with the highest contribution to alliance victories  
+
 ![India Election Dashboard](images/report_page3.png)
 
-### **Report Page - 4**  
+---
+
+### **Report Page – 4 (Political Landscape by State)**  
+**Key Insights & Purpose:**  
+- Allows users to **select any state** to view alliance performance  
+- Displays a state map with constituency boundaries and winners  
+- Contains KPIs for NDA, I.N.D.I.A, and Other seat counts in the selected state  
+- Provides a donut chart showing party-wise seat share within that state  
+
 ![India Election Dashboard](images/report_page4.png)
 
-### **Report Page - 5**  
+---
+
+### **Report Page – 5 (Constituency Analysis)**  
+**Key Insights & Purpose:**  
+- Shows a detailed breakdown of **voting patterns at the constituency level**  
+- Displays metrics such as:  
+  - Total votes  
+  - EVM vs Postal votes  
+  - Total candidates  
+  - Winning candidate & runner-up details  
+- Helps identify close contests and strongholds using vote margins  
+
 ![India Election Dashboard](images/report_page5.png)
 
-### **Report Page - 6**  
+---
+
+### **Report Page – 6 (Details Grid)**  
+**Key Insights & Purpose:**  
+- Provides a **complete tabular view** of constituency-level data  
+- Shows winner, runner-up, party, alliance, vote counts, and margins  
+- Supports drill-through from previous pages  
+- Enables users to export data for further analysis  
+
 ![India Election Dashboard](images/report_page6.png)
+
 
 
 ---
