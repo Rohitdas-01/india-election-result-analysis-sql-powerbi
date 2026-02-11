@@ -1,5 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="28" style="vertical-align:middle;"> India Election Result Analysis – SQL & Power BI (Lok Sabha Elections 2024)
 
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-Analysis-red?logo=microsoftsqlserver&logoColor=white)]()  [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-orange?logo=powerbi&logoColor=white)]()  [![GitHub](https://img.shields.io/badge/Repository-Active-brightgreen?logo=github)](https://github.com/Rohitdas-01/blinkit-sales-analysis-python-sql-powerbi)  
 
 ## 📚 Table of Contents
 
@@ -7,10 +8,10 @@
 - [📂 Project Repository](#-project-repository)
 - [🎯 Objectives](#-objectives)
 - [🛠️ Tools & Technologies](#️-tools--technologies)
+- [📁 Project Structure](#-project-structure)
 - [🧠 SQL Analysis – Key Insights](#-sql-analysis--key-insights)
 - [📈 Power BI Dashboard](#-power-bi-dashboard)
 - [▶️ How to Run This Project](#️-how-to-run-this-project)
-- [📁 Project Structure](#-project-structure)
 - [📬 Contact](#-contact)
 
 ---
@@ -66,6 +67,41 @@ Used for:
 - Candidate-to-Constituency Mapping  
 
 ---
+
+## 📁 Project Structure
+```
+📁 india-election-result-analysis-sql-powerbi
+│
+├── 📂 analysis report
+│ ├── election_analysis_using_powerbi.pdf
+│ ├── election_analysis_using_sql.pdf
+│ └── india_election_report_presentation.pptx
+│
+├── 📂 dashboard
+│ └── india_election_results.pbix
+│
+├── 📂 dataset
+│ ├── constituencywise_details.csv
+│ ├── constituencywise_results.csv
+│ ├── partywise_results.csv
+│ ├── states.csv
+│ └── statewise_results.csv
+│
+├── 📂 images
+│ ├── landing_page1.png
+│ ├── report_page2.png
+│ ├── report_page3.png
+│ ├── report_page4.png
+│ ├── report_page5.png
+│ └── report_page6.png
+│
+├── 📄 Problem Statement.pdf
+│
+└── 📄 README.md
+```
+
+---
+
 
 ## 🧠 SQL Analysis – Key Insights
 
@@ -128,5 +164,5 @@ Includes:
 
 ---
 
-## 📁 Project Structure
+
 
