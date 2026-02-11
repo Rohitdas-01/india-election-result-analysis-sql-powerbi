@@ -1,15 +1,17 @@
 # India Election Result Analysis – SQL & Power BI (Lok Sabha Elections 2024)
 
-## 📌 Table of Contents
-- [Project Overview](#project-overview)
-- [Project Repository](#project-repository)
-- [Objectives](#objectives)
-- [Tools & Technologies](#tools--technologies)
-- [SQL Analysis – Key Insights](#sql-analysis--key-insights)
-- [Power BI Dashboard](#power-bi-dashboard)
-- [How to Run This Project](#how-to-run-this-project)
-- [Project Structure](#project-structure)
-- [Contact](#contact)
+---
+
+## 📚 Table of Contents
+- [📌 Project Overview](#-project-overview)
+- [📂 Project Repository](#-project-repository)
+- [🎯 Objectives](#-objectives)
+- [🛠️ Tools & Technologies](#️-tools--technologies)
+- [🧠 SQL Analysis – Key Insights](#-sql-analysis--key-insights)
+- [📈 Power BI Dashboard](#-power-bi-dashboard)
+- [📌 How to Run This Project](#-how-to-run-this-project)
+- [📁 Project Structure](#-project-structure)
+- [📬 Contact](#-contact)
 
 ---
 
