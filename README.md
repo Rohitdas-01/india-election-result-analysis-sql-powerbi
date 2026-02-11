@@ -136,8 +136,24 @@ Includes:
 - Detailed constituency breakdown  
 - Drill-through navigation and interactive elements  
 
-### **Dashboard Preview**  
-*(Add your dashboard images here)*
+### **Landing Page - 1**  
+![India Election Dashboard](images/landing_page1.png)
+
+### **Report Page - 2**  
+![India Election Dashboard](images/report_page2.png)
+
+### **Report Page - 3**  
+![India Election Dashboard](images/report_page3.png)
+
+### **Report Page - 4**  
+![India Election Dashboard](images/report_page4.png)
+
+### **Report Page - 5**  
+![India Election Dashboard](images/report_page5.png)
+
+### **Report Page - 6**  
+![India Election Dashboard](images/report_page6.png)
+
 
 ---
 
