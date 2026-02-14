@@ -207,24 +207,43 @@ Below are the insights, findings, and relevance of each page along with the dash
 
 ## ▶️ How to Run This Project
 
-### **1. Load Data into SQL Server**
-- Import CSV files from the **dataset** folder  
-- Clean and transform data  
-- Run SQL queries to produce required aggregated outputs  
+### Step 1 - Clone the Repository**
+```bash
+git clone https://github.com/Rohitdas-01/india-election-result-analysis-sql-powerbi.git 
+```
+### Step 2 - Load and Prepare Data in SQL Server
 
-### **2. Perform SQL Analysis**
-- Calculate alliance seat counts  
-- Generate constituency-level insights  
-- Extract winning candidate details and vote margins  
+Import all datasets from the dataset folder:
+```bash
+constituencywise_details.csv
 
-### **3. Export Processed Data**
-- Export final cleaned tables for Power BI  
+constituencywise_results.csv
 
-### **4. Build the Power BI Dashboard**
-- Load processed tables into Power BI  
-- Create relationships between tables  
-- Add DAX measures & calculated columns  
-- Design visuals for alliance, state, and constituency insights  
+partywise_results.csv
+
+states.csv
+
+statewise_results.csv
+```
+Execute the SQL analysis scripts from:
+```bash
+analysis report/election_analysis_using_sql.pdf
+```
+
+### Step 3 - Open the Power BI Dashboard
+
+Load the report file located at:
+```bash
+dashboard/india_election_results.pbix
+```
+
+### Step 5 - Review Final Outputs
+
+You can now explore the:
+
+- Power BI dashboard (6-page interactive report)
+- SQL insights generated from the analysis
+- Presentation & analysis PDFs located in analysis report folder
 
 ---
 
